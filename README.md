@@ -12,7 +12,10 @@
 ## 🌟 Live Demo
 
 **🔗 [View Live Demo](https://your-demo-link.netlify.app)**  
-**📹 [Watch Video Demo]("The iot academy.mp4")**
+**📹 [## 🎥 Demo Video
+
+**📹 [Watch Video Demo on Google Drive](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)**
+
 
 ---
 
