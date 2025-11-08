@@ -12,28 +12,9 @@
 ## 🌟 Live Demo
 
 **🔗 [View Live Demo](https://your-demo-link.netlify.app)**  
-**📹 [## 🎥 Demo Video
-
-**📹 [Watch Video Demo on Google Drive](https://drive.google.com/file/d/1WKHfPrB9gdHDa6nG9Zuvx0hyvD24zhwH/view?usp=drive_link)**
-
+🎥 Demo Video [Watch Video Demo on Google Drive](https://drive.google.com/file/d/1WKHfPrB9gdHDa6nG9Zuvx0hyvD24zhwH/view?usp=drive_link)
 
 ---
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
-
-### Mobile View
-<p align="center">
-  <img src="./screenshots/mobile-view.png" width="300" alt="Mobile View">
-</p>
-
-### Features Showcase
-![Features](./screenshots/features-showcase.gif)
-
----
-
 ## ✨ Key Features
 
 ### 🎨 **Advanced UI/UX Design**
@@ -181,7 +162,7 @@ No build tools required! This is a pure HTML/CSS/JavaScript project.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/education-platform.git
+git clone https://github.com/sandeepgithu/The_IoT_Academy.git
 cd education-platform
 ```
 
@@ -571,30 +552,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Design inspiration from [Dribbble](https://dribbble.com)
-- Icons from [Font Awesome](https://fontawesome.com)
-- Images from [Unsplash](https://unsplash.com)
-- Fonts from [Google Fonts](https://fonts.google.com)
-
----
 
 ## 📚 Resources & Learning
 
@@ -630,8 +587,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help, feel free to:
 
 - Open an issue on GitHub
-- Send me an email
-- Connect on LinkedIn
+- Send me an email: singsandeep971@gmail.com
+- Connect on LinkedIn: https://www.linkedin.com/in/sandeep-kumar-161948272/
 
 ---
 
@@ -639,8 +596,7 @@ If you have any questions or need help, feel free to:
 
 ### ⭐ Star this repository if you found it helpful!
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sandeep
 
-**[⬆ Back to Top](#-professional-education-platform)**
 
 </div>
