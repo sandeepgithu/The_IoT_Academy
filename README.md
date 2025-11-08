@@ -11,7 +11,7 @@
 
 ## 🌟 Live Demo
 
-**🔗 [View Live Demo](https://your-demo-link.netlify.app)**  
+**🔗 [View Live Demo](https://sandeepgithu.github.io/The_IoT_Academy/)**  
 🎥 Demo Video [Watch Video Demo on Google Drive](https://drive.google.com/file/d/1WKHfPrB9gdHDa6nG9Zuvx0hyvD24zhwH/view?usp=drive_link)
 
 ---
